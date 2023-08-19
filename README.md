@@ -10,4 +10,4 @@ Refnx python package: https://refnx.readthedocs.io/en/latest/index.html
 
 If you find the stuff here useful please cite the following: 
 
-Miriam Grava, Mohd Ibrahim, Akhil Sudarsan, Julio Pusterla, Julian Philipp, Joachim R ̈adler, Nadine Schweirz, Emanuel Schneck . “Combining molecular dynamics simulations and X-ray scattering techniques for the accurate treatment of protonation degree and packing of ionizable lipids in monolayers”. [ https://doi.org/10.1101/2023.08.10.552652](DOI: 10.1101/2023.08.10.552652)
+Miriam Grava, Mohd Ibrahim, Akhil Sudarsan, Julio Pusterla, Julian Philipp, Joachim R ̈adler, Nadine Schweirz, Emanuel Schneck . “Combining molecular dynamics simulations and X-ray scattering techniques for the accurate treatment of protonation degree and packing of ionizable lipids in monolayers”. DOI: 10.1101/2023.08.10.552652 (https://doi.org/10.1101/2023.08.10.552652)
